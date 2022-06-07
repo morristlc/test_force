@@ -1,0 +1,35 @@
+{
+  "links":
+  [
+    {"source": 0, "target": 58, "value": 157},
+    {"source": 1, "target": 23, "value": 24},
+    {"source": 2, "target": 3, "value": 105742},
+    {"source": 3, "target": 2, "value": 36543},
+    {"source": 4, "target": 11, "value": 3410},
+    {"source": 4, "target": 23, "value": 57},
+    {"source": 5, "target": 7, "value": 1},
+    {"source": 5, "target": 8, "value": 1},
+    {"source": 5, "target": 9, "value": 1},
+    {"source": 5, "target": 10, "value": 19},
+    {"source": 6, "target": 7, "value": 54},
+    {"source": 6, "target": 8, "value": 96},
+    {"source": 6, "target": 9, "value": 156},
+    {"source": 6, "target": 10, "value": 14},
+    {"source": 7, "target": 5, "value": 3},
+    {"source": 7, "target": 6, "value": 40},
+    {"source": 7, "target": 8, "value": 6},
+    {"source": 7, "target": 9, "value": 6},
+    {"source": 7, "target": 10, "value": 20}
+  ],
+  "nodes_list":
+  [
+   {"group": 1, "name": "0.0.0.0"},
+   {"group": 2, "name": "10.16.11.5"},
+   {"group": 3, "name": "10.16.92.103"},
+   {"group": 3, "name": "10.16.92.79"},
+   {"group": 4, "name": "10.2.2.2"},
+   {"group": 5, "name": "10.21.22.1"},
+   {"group": 5, "name": "10.21.22.10"},
+   {"group": 5, "name": "10.21.22.22"}
+]
+}
