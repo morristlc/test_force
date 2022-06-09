@@ -77,6 +77,7 @@
       {"id": "Child2", "group": 10},
       {"id": "Brujon", "group": 4},
       {"id": "Mme.Hucheloup", "group": 8}
+      {"id": "58", "group": 8}
     ],
     "links": [
       {"source": "Napoleon", "target": "58", "value": 1},
