@@ -80,6 +80,7 @@
       {"id": "58", "group": 28}
     ],
     "links": [
+      {"source": "58", "target": "Napoleon", "value": 2},
       {"source": "Napoleon", "target": "58", "value": 1},
       {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8},
       {"source": "Mme.Magloire", "target": "Myriel", "value": 10},
